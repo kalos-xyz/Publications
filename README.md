@@ -5,25 +5,25 @@ Note that we were previously HAECHI AUDIT.
 ## Audit Reports 
 | Project     | Type        | Platform | Language |
 | ----------- | ----------- | -------- | -------- |
-| BiFROST     | NFT |    EVM   | KOR    |     
+| BiFROST NFT Marketplace     | NFT |    EVM   | KOR    |     
 | Key Protocol | DeFi  | EVM | KOR |
 | MarbleX GameTokenStaking    | DeFi    |   EVM  |    KOR      |
 | BadgerDAO | DeFi | EVM | ENG |
-| DFX    | DeFi  | EVM | ENG 
+| DFX Finance  | DeFi  | EVM | ENG 
 | Fractional | NFT  | EVM | ENG |  
 | Furucombo | DeFi | EVM | ENG |
-| GroundX | NFT  | EVM | ENG |
-| Intella X | NFT | EVM | ENG | 
-| Iskra | Bridge | EVM | ENG | 
-| Iskra | NFT  | EVM | ENG |
-| Luxon | DeFi | EVM | ENG | 
-| Luxon | NFT | EVM | ENG |
-| MarbleX | DeFi  | EVM | ENG | 
-| MarbleX | NFT  | EVM | ENG |
+| GroundX NFT Marketplace | NFT  | EVM | ENG |
+| Intella X Launchpad | NFT | EVM | ENG | 
+| Iskra Bridge | Bridge | EVM | ENG | 
+| Iskra NFT Marketplace | NFT  | EVM | ENG |
+| Luxon CrystalStaking | DeFi | EVM | ENG | 
+| Luxon Airdrop/Gacha | NFT | EVM | ENG |
+| MarbleX AMM | DeFi  | EVM | ENG | 
+| MarbleX NFT Marketplace | NFT  | EVM | ENG |
 | Meter | Bridge | EVM | ENG |
 | OneRing | DeFi | EVM | ENG | 
-| Pangea | DeFi | EVM | ENG | 
-| Rodeo | DeFi | EVM | ENG | 
+| Pangea Protocol | DeFi | EVM | ENG | 
+| Rodeo Finance | DeFi | EVM | ENG | 
 | Shoyu | NFT | EVM | ENG |
 | SuperRare | NFT  | EVM | ENG |
 | Sygma | Bridge | EVM | ENG | 
