@@ -1,8 +1,7 @@
 # KALOS Publications
-KALOS provides blockchain & smart contract security audits to make web3 space safer for everyone.
-Security is a top priority in the blockchain industry.
-Our comprehensive security audit service is designed to ensure both startups and large enterprises to launch their web3 projects(NFT, DeFi, Token etc.) with control and confidence.
+KALOS provides blockchain & smart contract security audits to make web3 space safer for everyone.  
 (Note that we were previously HAECHI AUDIT.)
+
 website: https://kalos.xyz/
 
 ## Audit Reports 
