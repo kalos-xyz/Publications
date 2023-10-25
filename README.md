@@ -10,6 +10,7 @@ website: https://kalos.xyz/
 | BiFROST NFT Marketplace     | NFT |    EVM   | KOR    |     
 | Key Protocol | DeFi  | EVM | KOR |
 | MarbleX GameTokenStaking    | DeFi    |   EVM  |    KOR      |
+| Softnyx | NFT | EVM | ENG |
 | BadgerDAO | DeFi | EVM | ENG |
 | DFX Finance  | DeFi  | EVM | ENG 
 | Fractional | NFT  | EVM | ENG |  
